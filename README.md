@@ -10,7 +10,7 @@
     📚 psycology • finance         
   </pre>
 <br><br>
-<img src="assets/run.gif" height="40" alt="run" />
+<img src="assets/run.gif" height="55" width ="55" alt="run" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)]([http://linkedin.com/in/ingridrosselis](https://www.linkedin.com/in/ayush-thapa-mangar-930518260/))
