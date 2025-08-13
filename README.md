@@ -4,7 +4,7 @@
   <br><br>
   <pre>
     💼 BSC @ INSP • DataScientist  
-    💻 c • python                  
+    💻 MySQL • python                  
     📖 DSA                         
     🎮 Music • Design • Code • GYM 
     📚 psycology • finance         
