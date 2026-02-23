@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&pause=1000&color=D20000&center=true&multiline=true&random=false&width=435&lines=HELLO+.+.+.+;I'm+AYUSH%2C+data+science+enthusiast!" alt="Typing SVG" width="70%" /></a>
   <br><br>
   <pre>
-    💼 BSC @ INSP • DataScientist  
+    💼 BSC @ INSP • DataScience
     💻 MySQL • python                  
     📖 DSA                         
     🎮 Music • Design • Code • GYM 
