@@ -17,7 +17,7 @@
 💻 MySQL • Python
 📖 DSA
 🎮 Music • Design • Code • Gym
-📚 Psychology • Finance
+📚 Psychology • Business case study
 </pre>
 
 <br>
